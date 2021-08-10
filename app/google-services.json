@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944445696941",
+    "project_id": "loginassignment-51390",
+    "storage_bucket": "loginassignment-51390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944445696941:android:1bd8e5ab37198e5e424f24",
+        "android_client_info": {
+          "package_name": "com.rahulswami_.loginassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944445696941-5evu8197ggob4ee488q75ac48k8lv9rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulswami_.loginassignment",
+            "certificate_hash": "545cdc1ce497a0462745aca6ae78560dde69b533"
+          }
+        },
+        {
+          "client_id": "944445696941-b7l10njqjt57o25uh082p7gbr7jbolu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsedxjPSZaYOBVUkgrt9XuRMPTz80EIgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944445696941-b7l10njqjt57o25uh082p7gbr7jbolu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

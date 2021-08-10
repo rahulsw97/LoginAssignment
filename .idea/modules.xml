@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-LoginAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-LoginAssignment.iml" group="LoginAssignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginAssignment.iml" group="LoginAssignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginAssignment-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginAssignment-app.iml" group="LoginAssignment/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LoginAssignment/app" />
+    </modules>
+  </component>
+</project>
